@@ -1,6 +1,6 @@
-# 🌌 Ternoa Fundamentals 
+# Ternoa Fundamentals 
 
-Your one stop shop for everything {Ternoa centric}. Here we cover all aspects of Ternoa and its ecosystem in detail for our users and developers. This doc contains a comprehensive account of everything ranging from Chain Architecture and Security Protocols to Off chain tools. 
+Your one stop shop for everything Ternoa centric. Here we cover all aspects of Ternoa and its ecosystem in detail for our users and developers. This doc contains a comprehensive account of everything ranging from Chain Architecture and Security Protocols to Off chain tools. 
 
 
 [more Introductory content here]
@@ -10,6 +10,7 @@ Your one stop shop for everything {Ternoa centric}. Here we cover all aspects of
 
 * `NFT-primitives/Features` under Standby
 * Finalizing content for `Blockchain/Chain-Architecture` n `Blockchain/Consensus-Mechanism` I'll add them in afterwards then make small changes.
+* Help a little with Soulbound content
 * Only proofreading and making suggested changes remains after this
 ====================================================================================
 
@@ -171,20 +172,16 @@ Consent Protocol: Gain peace of mind thanks to the Consent Protocol, allowing yo
 Death Protocol: Everyone leaves something important behind. The Death Protocol offers the possibility to create a capsule that can only be opened after the creator has passed away. A way to ensure that you pass on everything that is important to you to the right people.
 
 #### SoulBound NFTs
-
 Soulbound Tokens refer to the non transferrable nature of the asset. They are unique and immutable but unlike Basic NFTs, their ownership can't be transferred. The name implying the token is bound to the the wallet's soul. 
 
 
 
 
-Our key primitive is accounts, or wallets, that hold publicly visible, non-transferable (but possibly revocable-by-the-issuer) tokens. We refer to the accounts as “Souls” and tokens held by the accounts as “Soulbound Tokens” (SBTs).
-
-Imagine a world where most participants have Souls that store SBTs corresponding to a series of affiliations, memberships, and credentials. For example, a person might have a Soul that stores SBTs representing educational credentials, employment history, or hashes of their writings or works of art. In their simplest form, these SBTs can be “self-certified,” similar to how we share information about ourselves in our CVs. But the true power of this mechanism emerges when SBTs held by one Soul can be issued—or attested—by other Souls, who are counter-parties to these relationships. These counter-party Souls could be individuals, companies, or institutions. For example, the Ethereum Foundation could be a Soul that issues SBTs to Souls who attended a developer conference. A university could be a Soul that issues SBTs to graduates. A stadium could be a Soul that issues SBTs to longtime Manchester United fans.
+Our key primitive is accounts, or wallets, that hold publicly visible, non-transferable (but possibly revocable-by-the-issuer) tokens. We refer to the accounts as `“Souls”` and tokens held by the accounts as `“Soulbound Tokens”` (SBTs).
 
 
-Furthermore, the lack a native web3 identity makes today’s DeFi ecosystem unable to support activities ubiquitous in the real economy, such as undercollateralized lending or simple contracts, like an apartment lease. In this paper, we illustrate how even small and incremental steps towards representing social identity with soulbound tokens could overcome these limitations and bring the ecosystem far closer to regenerating markets with their underpinning human relationships in a native web3 context. 
+Let’s understand how native web3 social identity, with rich social composability, could yield great progress on broader long-standing problems in web3 around wealth concentration and vulnerability of governance to financial attacks, while spurring an explosion of innovative political, economic, and social applications. We refer to these use cases as `“Decentralized Society”` or `DeSoc` for short.
 
-Let’s understand how native web3 social identity, with rich social composability, could yield great progress on broader long-standing problems in web3 around wealth concentration and vulnerability of governance to financial attacks, while spurring a Cambrian explosion of innovative political, economic, and social applications. We refer to these use cases as “Decentralized Society” (DeSoc).
 
 ## Off Chain
 
